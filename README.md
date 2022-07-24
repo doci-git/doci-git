@@ -8,4 +8,3 @@ Skills & Technologies:
  
  You can chech my protofolio https://doci-git.github.io/Portofolio-Doci.Musa/
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doci-git)](https://github.com/anuraghazra/github-readme-stats)
