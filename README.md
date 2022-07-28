@@ -5,6 +5,11 @@ I'm Musa Web Developer. I really enjoy development because of the satisfaction i
 Skills & Technologies:
  JavaScript | jQuery | Html5 | Css3 | Bootstrap | GitHub | Git 
  | Currently Learning React | And more to come...
+ Languages and Tools:
+
+ css3 html5 javascript python react sass
+
+firebase git tailwind
  
  You can chech my protofolio https://doci-git.github.io/Portofolio-Doci.Musa/
  
